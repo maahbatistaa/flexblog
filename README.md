@@ -8,6 +8,6 @@ Obtive o conhecimento e a pratica do flexbox, utilizando diversas formas de alin
 ***Front-end:*** HTML e CSS
 
 ### Demonstração
-[FlexBlog](https://flexblog-green.vercel.app)
+[FlexBlog](https://flexblog-jet.vercel.app)
 <hr>
 
